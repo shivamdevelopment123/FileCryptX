@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/encryptiodialog.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/encryptiodialog.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/archieve_dialog.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/archieve_dialog.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/decryptiondialog.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/decryptiondialog.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/activity_splash_screen.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/deletedialog.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/deletedialog.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/fragment_home_screen.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/fragment_home_screen.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/fragment_trash_bin.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/fragment_trash_bin.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/fileconflictdialog.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/fileconflictdialog.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/rename_single_file.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/rename_single_file.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/fragment_password_authentication.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/fragment_password_authentication.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/activity_app_settings.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/activity_app_settings.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/path_item.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/path_item.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/sortby_dialog_box.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/sortby_dialog_box.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/fragment_password_setup_fragement.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/fragment_password_setup_fragement.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/newfilefolderdialog.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/newfilefolderdialog.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/fragment_file_explorer.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/fragment_file_explorer.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/notification_layout.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/notification_layout.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/fragment_vault.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/fragment_vault.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/fragment_file_info.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/fragment_file_info.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/trashdialog.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/trashdialog.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/file_layout.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/file_layout.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/recentrecyclerlayout.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/recentrecyclerlayout.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-mergeDebugResources-45:/layout/gridf_flile_layout.xml",
+        "source": "coder.sentient.filecryptx.app-main-48:/layout/gridf_flile_layout.xml"
+    }
+]

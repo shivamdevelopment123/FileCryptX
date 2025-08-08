@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_3a" />
+        <device id="pixel_4" />
+        <device id="pixel_9_pro" />
+        <device id="pixel" />
+        <device id="pixel_4a" />
+        <device id="pixel_8a" />
+        <device id="_device_class_phone" />
+        <device id="pixel_8" />
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/font/.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_app_settings.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/archieve_dialog.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/decryptiondialog.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/deletedialog.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/encryptiodialog.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/file_layout.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fileconflictdialog.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_file_explorer.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_file_info.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home_screen.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.filecryptx</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_password_authentication.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_password_setup_fragement.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_trash_bin.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_vault.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/gridf_flile_layout.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/newfilefolderdialog.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/notification_layout.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/path_item.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/recentrecyclerlayout.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/rename_single_file.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/sortby_dialog_box.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/trashdialog.xml">
+        <config>
+          <night>night</night>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/bottompopupmenu.xml">
+        <config>
+          <theme>@style/Theme.filecryptx</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/toolbarmenu.xml">
+        <config>
+          <theme>@style/Theme.FileFusion</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a625095-ac91-4136-9310-0f3d4bd83b72" name="Changes" comment="- Ensured the archive option is visible in the bottom pop-up menu." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=ce939614)]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FileFusion" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FileFusion" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FileFusion" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FileFusion" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Kotlin Data Class" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="D:\Coding\Android app completed\FileFusion\filefusionkey.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shivamtechstack&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shivamtechstack/FileFusion&quot;,
+    &quot;accountId&quot;: &quot;f04f81cb-9a4c-44c7-a147-bd32f54369c5&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2l9qDCFdf23MtT2OMxPFF9rzYkQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "ApkExportedModule": "FileFusion.app",
+    "BundleExportedModule": "FileFusion.app",
+    "ExportApk.ApkPathForFileFusion.app": "D:\\Coding\\Android\\FileFusion\\app",
+    "ExportBundle.BundlePathForFileFusion.app": "D:\\Coding\\Android\\FileFusion\\app",
+    "Gradle.Upgrade Gradle wrapper.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
+    "Notification.DoNotAsk-Vcs Important Messages": "true",
+    "PROJECT_TRUSTED_KEY": "true",
+    "ResourceManagerPrefKey.ModuleName": "FileFusion.app.main",
+    "ResourceManagerPrefKey.ResourceType": "COLOR",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/shiva/AndroidStudioProjects/FileFusion/app/src/main/java",
+    "last_opened_file_path": "D:/Coding/new and refactored projects/FileCryptX/Screenshots",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "recommended.upgrade.last.time.stamp": "1730562901435",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "show.migrate.to.gradle.popup": "false"
+  },
+  "keyToStringList": {
+    "ExportApk.BuildVariants": [
+      "release"
+    ]
+  }
+}]]></component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\new and refactored projects\FileCryptX\Screenshots" />
+      <recent name="D:\Coding\Android\FileFusion\app\src\main\res\drawable" />
+      <recent name="C:\Users\shiva\AndroidStudioProjects\FileFusion\Screenshots" />
+      <recent name="C:\Users\shiva\AndroidStudioProjects\FileFusion\app\src\main\res\drawable" />
+      <recent name="C:\Users\shiva\AndroidStudioProjects\FileFusion\app\src\main\java\shivam\sycodes\filefusion\adapters" />
+    </key>
+    <key name="android.template.-588132167">
+      <recent name="shivam.sycodes.filefusion" />
+    </key>
+    <key name="android.template.1105109923">
+      <recent name="shivam.sycodes.filefusion.splashscreen" />
+    </key>
+    <key name="android.template.941101049">
+      <recent name="shivam.sycodes.filefusion" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="filecryptx.app" />
+      <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="ALLOW_ASSUME_VERIFIED" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="RESTORE_ENABLED" value="false" />
+      <option name="RESTORE_FILE" value="" />
+      <option name="RESTORE_FRESH_INSTALL_ONLY" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\shiva\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a625095-ac91-4136-9310-0f3d4bd83b72" name="Changes" comment="" />
+      <created>1724602517263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724602517263</updated>
+    </task>
+    <task id="LOCAL-00025" summary="File opening bugs resolved, Opening class separate implemented.">
+      <option name="closed" value="true" />
+      <created>1731557572378</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1731557572378</updated>
+    </task>
+    <task id="LOCAL-00026" summary="vault password Authentication added">
+      <option name="closed" value="true" />
+      <created>1731826424373</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1731826424373</updated>
+    </task>
+    <task id="LOCAL-00027" summary="vault Pattern Change Implemented In settings">
+      <option name="closed" value="true" />
+      <created>1731835081129</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1731835081129</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Recent File View on Home Screen">
+      <option name="closed" value="true" />
+      <created>1731849487389</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1731849487389</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Icon added, UI Improvements">
+      <option name="closed" value="true" />
+      <created>1732083442284</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1732083442284</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Bug Fix, Out of memory issue">
+      <option name="closed" value="true" />
+      <created>1732549842866</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1732549842866</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Readme, Application preview">
+      <option name="closed" value="true" />
+      <created>1732625769597</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1732625769597</updated>
+    </task>
+    <task id="LOCAL-00032" summary="AES 256bit file encryption added">
+      <option name="closed" value="true" />
+      <created>1732989530611</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1732989530612</updated>
+    </task>
+    <task id="LOCAL-00033" summary="&quot; &quot;">
+      <option name="closed" value="true" />
+      <created>1732989902355</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1732989902355</updated>
+    </task>
+    <task id="LOCAL-00034" summary="- Implemented file decryption with support for AES encryption.- Fixed handling of salt and IV during encryption and decryption processes.">
+      <option name="closed" value="true" />
+      <created>1733137261592</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1733137261592</updated>
+    </task>
+    <task id="LOCAL-00035" summary="- same name conflict resolve during Encryption&amp;Decryption.">
+      <option name="closed" value="true" />
+      <created>1733162398811</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1733162398811</updated>
+    </task>
+    <task id="LOCAL-00036" summary="File cut, copy, paste Operation Improved.">
+      <option name="closed" value="true" />
+      <created>1733384806777</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1733384806777</updated>
+    </task>
+    <task id="LOCAL-00037" summary="File cut, copy, paste Operation Improved.">
+      <option name="closed" value="true" />
+      <created>1733384906695</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1733384906695</updated>
+    </task>
+    <task id="LOCAL-00038" summary="reconfig_git_connection">
+      <option name="closed" value="true" />
+      <created>1733385343702</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1733385343702</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Archive Structure created..">
+      <option name="closed" value="true" />
+      <created>1733421304627</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1733421304628</updated>
+    </task>
+    <task id="LOCAL-00040" summary="-minor fixes">
+      <option name="closed" value="true" />
+      <created>1734091962032</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1734091962032</updated>
+    </task>
+    <task id="LOCAL-00041" summary="-enter password before moving file to vault">
+      <option name="closed" value="true" />
+      <created>1736094800662</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1736094800662</updated>
+    </task>
+    <task id="LOCAL-00042" summary="-trash bin moved to toolbarmenu options">
+      <option name="closed" value="true" />
+      <created>1736256850240</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1736256850240</updated>
+    </task>
+    <task id="LOCAL-00043" summary="-trash bin moved to toolbarmenu options,&#10;-optimized home screen fragment">
+      <option name="closed" value="true" />
+      <created>1737981060989</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1737981060989</updated>
+    </task>
+    <task id="LOCAL-00044" summary="- Implemented video thumbnail generation using coroutines for better performance.">
+      <option name="closed" value="true" />
+      <created>1737982613434</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1737982613434</updated>
+    </task>
+    <task id="LOCAL-00045" summary="UI/UX dark mode improvements.">
+      <option name="closed" value="true" />
+      <created>1738259615376</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1738259615376</updated>
+    </task>
+    <task id="LOCAL-00046" summary="- Enabled password field masking in encryption and decryption dialogs.&#10;- Updated build output cleanup lock file.&#10;- Added folder icon.">
+      <option name="closed" value="true" />
+      <created>1738260509738</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1738260509738</updated>
+    </task>
+    <task id="LOCAL-00047" summary="- Added a Privacy Policy with a detailed dialog.">
+      <option name="closed" value="true" />
+      <created>1738394601673</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1738394601673</updated>
+    </task>
+    <task id="LOCAL-00048" summary="- Updated file explorer fragment layout:">
+      <option name="closed" value="true" />
+      <created>1738397977628</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1738397977628</updated>
+    </task>
+    <task id="LOCAL-00049" summary="- minor bug fix in paste operation.">
+      <option name="closed" value="true" />
+      <created>1738410088344</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1738410088344</updated>
+    </task>
+    <task id="LOCAL-00050" summary="-implement notification in encryption service">
+      <option name="closed" value="true" />
+      <created>1741096918959</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1741096918959</updated>
+    </task>
+    <task id="LOCAL-00051" summary="- Removed unused imports and dependencies across multiple files.">
+      <option name="closed" value="true" />
+      <created>1741097334334</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1741097334334</updated>
+    </task>
+    <task id="LOCAL-00052" summary="- Added an &quot;About Us&quot; dialog that displays information about the app and the developer.">
+      <option name="closed" value="true" />
+      <created>1741175788155</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1741175788155</updated>
+    </task>
+    <task id="LOCAL-00053" summary="- Implement progress notification for AES decryption service:&#10; -increase encryption and decryption speed.">
+      <option name="closed" value="true" />
+      <created>1741193596304</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1741193596305</updated>
+    </task>
+    <task id="LOCAL-00054" summary="-basic ui update in notification.">
+      <option name="closed" value="true" />
+      <created>1741194725671</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1741194725671</updated>
+    </task>
+    <task id="LOCAL-00055" summary="- Added cancellation functionality to the AES encryption service:">
+      <option name="closed" value="true" />
+      <created>1741257157731</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1741257157731</updated>
+    </task>
+    <task id="LOCAL-00056" summary="- Added cancellation functionality to AES decryption service.">
+      <option name="closed" value="true" />
+      <created>1741259402948</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1741259402948</updated>
+    </task>
+    <task id="LOCAL-00057" summary="- Corrected password comparison in encryption dialog.">
+      <option name="closed" value="true" />
+      <created>1741268916953</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1741268916953</updated>
+    </task>
+    <task id="LOCAL-00058" summary="-bug fix in file pasting operation, -added progress bar for file pasting">
+      <option name="closed" value="true" />
+      <created>1741503499030</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1741503499030</updated>
+    </task>
+    <task id="LOCAL-00059" summary="- Added `LocalBroadcastManager` to send broadcast on completion of encryption and decryption.">
+      <option name="closed" value="true" />
+      <created>1741506381892</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1741506381892</updated>
+    </task>
+    <task id="LOCAL-00060" summary="-fix Sdcard &amp; USB storage details view">
+      <option name="closed" value="true" />
+      <created>1741764883021</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1741764883021</updated>
+    </task>
+    <task id="LOCAL-00061" summary="- Refactored move operation to use copy and delete for better reliability instead of renameTo.">
+      <option name="closed" value="true" />
+      <created>1741797285572</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1741797285574</updated>
+    </task>
+    <task id="LOCAL-00062" summary="&#10; - Added a new fragment to display detailed information about files and folders.">
+      <option name="closed" value="true" />
+      <created>1741855420552</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1741855420552</updated>
+    </task>
+    <task id="LOCAL-00063" summary="- Added a check for external storage in file deletion:&#10;- If file located in external storage force permanent delete option and disable move to trash option.">
+      <option name="closed" value="true" />
+      <created>1742020173754</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1742020173755</updated>
+    </task>
+    <task id="LOCAL-00064" summary="```&#10;- Modified the delete dialog to display the names and number of files/folders to be deleted.">
+      <option name="closed" value="true" />
+      <created>1742026546064</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1742026546064</updated>
+    </task>
+    <task id="LOCAL-00065" summary="-UI enhancements">
+      <option name="closed" value="true" />
+      <created>1742104364797</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1742104364799</updated>
+    </task>
+    <task id="LOCAL-00066" summary="functionality using `SearchView`'s `editText` listener.&#10;  `performGlobalSearch` function to recursively search files within directories.">
+      <option name="closed" value="true" />
+      <created>1742543070410</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1742543070410</updated>
+    </task>
+    <task id="LOCAL-00067" summary="&#10;  - Replaced `SearchBar` and `SearchView` with `androidx.appcompat.widget.SearchView` in `fragment_file_explorer.xml`.">
+      <option name="closed" value="true" />
+      <created>1742544303858</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1742544303858</updated>
+    </task>
+    <task id="LOCAL-00068" summary="- Implement cancel functionality and remember choice in paste operation:&#10;  - Added a cancel button to the paste notification that stops the ongoing paste operation.&#10;  - Implemented a &quot;remember choice&quot; checkbox in the file conflict dialog.">
+      <option name="closed" value="true" />
+      <created>1742714458311</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1742714458311</updated>
+    </task>
+    <task id="LOCAL-00069" summary="- Updated Trash Bin Fragment:&#10;  - Added a &quot;Delete All&quot; button to permanently delete all files from the trash bin.">
+      <option name="closed" value="true" />
+      <created>1742714491907</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1742714491907</updated>
+    </task>
+    <task id="LOCAL-00070" summary="- Changed color schemes in the app">
+      <option name="closed" value="true" />
+      <created>1742716802044</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1742716802044</updated>
+    </task>
+    <task id="LOCAL-00071" summary="- Added a theme selector in app settings using a spinner and implemented theme switching (light, dark, system default).&#10;- Added a switch to show/hide hidden files and folders in app settings.">
+      <option name="closed" value="true" />
+      <created>1742735100970</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1742735100970</updated>
+    </task>
+    <task id="LOCAL-00072" summary="- Added proper error handling for decryption failures including incorrect password and general exceptions.&#10;- Implemented notification for decryption errors using a dedicated notification channel and a toast message.&#10;- Updated target SDK to 36 and compile SDK to 35.&#10;- Updated AGP version to 8.9.2.&#10;- Minor changes to TrashAdapter.kt (whitespace).&#10;- Cleaned up buildOutputCleanup.lock and file-system.probe files.">
+      <option name="closed" value="true" />
+      <created>1746551094936</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1746551094936</updated>
+    </task>
+    <task id="LOCAL-00073" summary="- Ensured the archive option is visible in the bottom pop-up menu.">
+      <option name="closed" value="true" />
+      <created>1746554454428</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1746554454428</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="- Removed unused imports and dependencies across multiple files." />
+    <MESSAGE value="- Added an &quot;About Us&quot; dialog that displays information about the app and the developer." />
+    <MESSAGE value="- Implement progress notification for AES decryption service:&#10; -increase encryption and decryption speed." />
+    <MESSAGE value="-basic ui update in notification." />
+    <MESSAGE value="- Added cancellation functionality to the AES encryption service:" />
+    <MESSAGE value="- Added cancellation functionality to AES decryption service." />
+    <MESSAGE value="- Corrected password comparison in encryption dialog." />
+    <MESSAGE value="-bug fix in file pasting operation, -added progress bar for file pasting" />
+    <MESSAGE value="- Added `LocalBroadcastManager` to send broadcast on completion of encryption and decryption." />
+    <MESSAGE value="-fix Sdcard &amp; USB storage details view" />
+    <MESSAGE value="- Refactored move operation to use copy and delete for better reliability instead of renameTo." />
+    <MESSAGE value="- Implement FileInfoFragment:&#10;  - Added a new fragment to display detailed file information" />
+    <MESSAGE value="&#10;  - Added a new fragment to display detailed information about files and folders." />
+    <MESSAGE value="&#10; - Added a new fragment to display detailed information about files and folders." />
+    <MESSAGE value="- Added a check for external storage in file deletion:&#10;- If file located in external storage force permanent delete option and disable move to trash option." />
+    <MESSAGE value="```&#10;- Modified the delete dialog to display the names and number of files/folders to be deleted." />
+    <MESSAGE value="-UI enhancements" />
+    <MESSAGE value="functionality using `SearchView`'s `editText` listener.&#10;  `performGlobalSearch` function to recursively search files within directories." />
+    <MESSAGE value="&#10;  - Replaced `SearchBar` and `SearchView` with `androidx.appcompat.widget.SearchView` in `fragment_file_explorer.xml`." />
+    <MESSAGE value="- Implement cancel functionality and remember choice in paste operation:&#10;  - Added a cancel button to the paste notification that stops the ongoing paste operation.&#10;  - Implemented a &quot;remember choice&quot; checkbox in the file conflict dialog." />
+    <MESSAGE value="- Updated Trash Bin Fragment:&#10;  - Added a &quot;Delete All&quot; button to permanently delete all files from the trash bin." />
+    <MESSAGE value="- Changed color schemes in the app" />
+    <MESSAGE value="- Added a theme selector in app settings using a spinner and implemented theme switching (light, dark, system default).&#10;- Added a switch to show/hide hidden files and folders in app settings." />
+    <MESSAGE value="- Added proper error handling for decryption failures including incorrect password and general exceptions.&#10;- Implemented notification for decryption errors using a dedicated notification channel and a toast message.&#10;- Updated target SDK to 36 and compile SDK to 35.&#10;- Updated AGP version to 8.9.2.&#10;- Minor changes to TrashAdapter.kt (whitespace).&#10;- Cleaned up buildOutputCleanup.lock and file-system.probe files." />
+    <MESSAGE value="- Ensured the archive option is visible in the bottom pop-up menu." />
+    <option name="LAST_COMMIT_MESSAGE" value="- Ensured the archive option is visible in the bottom pop-up menu." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/coder/sentient/filecryptx/MainActivity.kt</url>
+          <line>11</line>
+          <properties class="coder.sentient.filecryptx.MainActivity" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/app/src/main/java/coder/sentient/filecryptx/archievingAndEncryption/AESDecryptionService.kt</url>
+          <line>30</line>
+          <properties class="shivam.sycodes.filefusion.archievingAndEncryption.AESDecryptionService">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/coder/sentient/filecryptx/fragments/FileExplorerFragment.kt</url>
+          <line>560</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/coder/sentient/filecryptx/fragments/FileExplorerFragment.kt</url>
+          <line>657</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="coder.sentient.filecryptx">
+          <value>
+            <CheckInfo lastCheckTimestamp="1754570528305" />
+          </value>
+        </entry>
+        <entry key="coder.sentient.filecryptx.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1754570528323" />
+          </value>
+        </entry>
+        <entry key="shivam.sycodes.filefusion">
+          <value>
+            <CheckInfo lastCheckTimestamp="1754568631733" />
+          </value>
+        </entry>
+        <entry key="shivam.sycodes.filefusion.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1754568631735" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

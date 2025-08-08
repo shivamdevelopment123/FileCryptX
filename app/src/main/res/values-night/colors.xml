@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_pallet">#FF000000</color>
+    <color name="alpaviewbackground">#0AFFFFFF</color>
+    <color name="blackwhite">#FFFFFFFF</color>
+    <color name="blackOnDark">#FF000000</color>
+    <color name="cardsDarkColor">#282828</color>
+    <color name="iconcolor">#FFFFFFFF</color>
+    <color name="toolBarColor">#282828</color>
+</resources>

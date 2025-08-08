@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="View mode"
+    android:icon="@drawable/baseline_view_list_24"
+    tools:ignore="HardcodedText">
+    <menu>
+            <item android:id="@+id/list_layout_mode"
+            android:title="List view"
+                android:icon="@drawable/baseline_list_24"
+            android:checkable="true"
+            tools:ignore="HardcodedText" />
+
+        <item android:id="@+id/gridView_layout_mode"
+            android:title="Grid view"
+            android:icon="@drawable/baseline_grid_view_24"
+            android:checkable="true"
+            tools:ignore="HardcodedText" />
+    </menu>
+</item>
+    <item android:id="@+id/sortby_dialogbox"
+        android:title="Sort by"
+        android:icon="@drawable/baseline_sort_24"
+        tools:ignore="HardcodedText" />
+
+    <item android:title="Show hidden files"
+        android:id="@+id/hidden_file_button"
+        android:checkable="true"
+        android:icon="@drawable/baseline_hide_source_24"
+        tools:ignore="HardcodedText" />
+
+    <item android:id="@+id/trashBin_button_toolbar"
+        android:title="Trash Bin"
+        android:icon="@drawable/outline_delete_24"
+        tools:ignore="HardcodedText" />
+
+    <item android:id="@+id/setting_button_toolbar"
+        android:title="Settings"
+        android:icon="@drawable/outline_settings_24"
+        tools:ignore="HardcodedText" />
+
+</menu>

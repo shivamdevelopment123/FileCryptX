@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_gridf_flile_layout.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\gridf_flile_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_fragment_password_authentication.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\fragment_password_authentication.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_filegridviewborder.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\filegridviewborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_emptyfolder.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\emptyfolder.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_lato.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\lato.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_drive_file_rename_outline_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_drive_file_rename_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_fragment_password_setup_fragement.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\fragment_password_setup_fragement.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_lato_bold.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\lato_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_settings_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_content_paste_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_content_paste_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_archive_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_archive_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_content_copy_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_content_copy_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_rename_single_file.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\rename_single_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_music.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_list_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_recent.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\recent.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_lock_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_circular_progress.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\circular_progress.xml"
+    },
+    {
+        "merged": "coder.sentient.filecryptx.app-debug-46:/menu_bottompopupmenu.xml.flat",
+        "source": "coder.sentient.filecryptx.app-main-48:/menu/bottompopupmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_pptxfile.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\pptxfile.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_star_outline_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_star_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_path_item.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\path_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_file_layout.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\file_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_psd.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\psd.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_videofile.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\videofile.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_lock_open_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_lock_open_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_recentrecyclerlayout.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\recentrecyclerlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_bookmark_remove_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_bookmark_remove_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_fileconflictdialog.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\fileconflictdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_sortby_dialog_box.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\sortby_dialog_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_bookmark_add_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_bookmark_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\menu_toolbarmenu.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\menu\\toolbarmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_acme.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_poppins_thin.ttf.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\poppins_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_activity_app_settings.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\activity_app_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_drive_file_move_rtl_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_drive_file_move_rtl_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_ppt.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\ppt.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_apk.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\apk.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_xls.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\xls.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_view_list_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_view_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_create_new_folder_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_create_new_folder_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_file.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_file_open_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_file_open_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_docx.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\docx.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_decryptiondialog.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\decryptiondialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_bookmarks_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_bookmarks_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_pdf.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_trashdialog.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\trashdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_folder.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_zip.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\zip.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_policy_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_policy_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_hide_source_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_hide_source_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_plus_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\plus_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_info_outline_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_info_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_notification_layout.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\notification_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_vault24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\vault24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_fragment_home_screen.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\fragment_home_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_cardviewborder.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\cardviewborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_delete_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_doc.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\doc.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_audio.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\audio.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_fragment_file_info.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\fragment_file_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_document.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\document.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_img.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_imagefile.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\imagefile.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_fragment_vault.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\fragment_vault.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_archive_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_archive_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_done_all_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_done_all_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_fragment_trash_bin.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\fragment_trash_bin.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_encryptiodialog.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\encryptiodialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_padlock.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\padlock.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_unarchive_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_unarchive_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_insert_drive_file_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_insert_drive_file_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_iso.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\iso.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_content_cut_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_content_cut_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_night_day_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\night_day_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_deletedialog.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\deletedialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_archieve_dialog.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\archieve_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_folder_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_folder_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_download.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_newfilefolderdialog.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\newfilefolderdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_photos.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\photos.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_merriweather_sans_light.ttf.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\merriweather_sans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_video.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\video.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_montserrat_bold.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\montserrat_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_restore_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_restore_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_sort_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_sort_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\layout_fragment_file_explorer.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\layout\\fragment_file_explorer.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_txt.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\txt.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_share_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\menu_bottompopupmenu.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\menu\\bottompopupmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_archieve.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\archieve.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\font_source_sans_pro_semibold.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\font\\source_sans_pro_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_unarchive_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_unarchive_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_vcffile.png.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\vcffile.png"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_grid_view_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_grid_view_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_baseline_shortcut_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\baseline_shortcut_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-debug-46:\\drawable_outline_settings_24.xml.flat",
+        "source": "C:\\Users\\shiva\\.gradle\\daemon\\8.13\\coder.sentient.filecryptx.app-main-48:\\drawable\\outline_settings_24.xml"
+    }
+]

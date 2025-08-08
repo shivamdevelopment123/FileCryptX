@@ -1,0 +1,49 @@
+coder.sentient.filecryptx.app-sqlite-2.4.0-0 C:\Users\shiva\.gradle\caches\8.13\transforms\02fb5a34257fb7e76933c9741274f055\transformed\sqlite-2.4.0\res
+coder.sentient.filecryptx.app-emoji2-views-helper-1.3.0-1 C:\Users\shiva\.gradle\caches\8.13\transforms\04476c4952527ac88f677568679867c9\transformed\emoji2-views-helper-1.3.0\res
+coder.sentient.filecryptx.app-sqlite-framework-2.4.0-2 C:\Users\shiva\.gradle\caches\8.13\transforms\09224d33730a12dc8cb91dbfc0660614\transformed\sqlite-framework-2.4.0\res
+coder.sentient.filecryptx.app-material-1.12.0-3 C:\Users\shiva\.gradle\caches\8.13\transforms\11c6c71778892d2142e83f442289cab1\transformed\material-1.12.0\res
+coder.sentient.filecryptx.app-appcompat-resources-1.7.0-4 C:\Users\shiva\.gradle\caches\8.13\transforms\2572c222ea8ee268133b0a269400e9cc\transformed\appcompat-resources-1.7.0\res
+coder.sentient.filecryptx.app-transition-1.5.0-5 C:\Users\shiva\.gradle\caches\8.13\transforms\29f2150445ecd973bee634c90e8de51e\transformed\transition-1.5.0\res
+coder.sentient.filecryptx.app-lifecycle-runtime-ktx-2.6.2-6 C:\Users\shiva\.gradle\caches\8.13\transforms\2c0df2c551e7865e0e30e702862fc13b\transformed\lifecycle-runtime-ktx-2.6.2\res
+coder.sentient.filecryptx.app-coordinatorlayout-1.1.0-7 C:\Users\shiva\.gradle\caches\8.13\transforms\2d4c2ff7c69b5a874a6268867a262d48\transformed\coordinatorlayout-1.1.0\res
+coder.sentient.filecryptx.app-work-runtime-2.9.1-8 C:\Users\shiva\.gradle\caches\8.13\transforms\327d9e930c3e21822d9d4006ce5fbbe5\transformed\work-runtime-2.9.1\res
+coder.sentient.filecryptx.app-lifecycle-runtime-2.6.2-9 C:\Users\shiva\.gradle\caches\8.13\transforms\3e4b3bd46021d3b08061219b6135491f\transformed\lifecycle-runtime-2.6.2\res
+coder.sentient.filecryptx.app-work-runtime-ktx-2.9.1-10 C:\Users\shiva\.gradle\caches\8.13\transforms\40e564f709800568563791cb3511555c\transformed\work-runtime-ktx-2.9.1\res
+coder.sentient.filecryptx.app-emoji2-1.3.0-11 C:\Users\shiva\.gradle\caches\8.13\transforms\42465bf977d2467685ca20ffd8b36634\transformed\emoji2-1.3.0\res
+coder.sentient.filecryptx.app-lifecycle-livedata-2.6.2-12 C:\Users\shiva\.gradle\caches\8.13\transforms\4d2b3d9e67d7e0393672f3d19de66753\transformed\lifecycle-livedata-2.6.2\res
+coder.sentient.filecryptx.app-cardview-1.0.0-13 C:\Users\shiva\.gradle\caches\8.13\transforms\52a539a47d5a6885cb3595b02a67c4ca\transformed\cardview-1.0.0\res
+coder.sentient.filecryptx.app-recyclerview-1.1.0-14 C:\Users\shiva\.gradle\caches\8.13\transforms\52d02ea6666eeccb4becffce72943732\transformed\recyclerview-1.1.0\res
+coder.sentient.filecryptx.app-lifecycle-viewmodel-2.6.2-15 C:\Users\shiva\.gradle\caches\8.13\transforms\5be3e99e1944319fe61ef9e9a3e9a719\transformed\lifecycle-viewmodel-2.6.2\res
+coder.sentient.filecryptx.app-activity-ktx-1.9.1-16 C:\Users\shiva\.gradle\caches\8.13\transforms\6e088d79015e8a1312247a7e9b7cecd8\transformed\activity-ktx-1.9.1\res
+coder.sentient.filecryptx.app-constraintlayout-2.1.4-17 C:\Users\shiva\.gradle\caches\8.13\transforms\713802fe9c5f1cca734e3ddde64c1e6d\transformed\constraintlayout-2.1.4\res
+coder.sentient.filecryptx.app-room-runtime-2.6.1-18 C:\Users\shiva\.gradle\caches\8.13\transforms\840ff3efaf3169894c01cfea9d8b3b0c\transformed\room-runtime-2.6.1\res
+coder.sentient.filecryptx.app-fragment-ktx-1.6.1-19 C:\Users\shiva\.gradle\caches\8.13\transforms\855ac3a1c487fc853f953a6faad4ea64\transformed\fragment-ktx-1.6.1\res
+coder.sentient.filecryptx.app-savedstate-1.2.1-20 C:\Users\shiva\.gradle\caches\8.13\transforms\9124cf8bf64522903a319304eca67476\transformed\savedstate-1.2.1\res
+coder.sentient.filecryptx.app-glide-4.16.0-21 C:\Users\shiva\.gradle\caches\8.13\transforms\9b2e986fa38bbe2e57a8786fce24d139\transformed\glide-4.16.0\res
+coder.sentient.filecryptx.app-room-ktx-2.6.1-22 C:\Users\shiva\.gradle\caches\8.13\transforms\a30dc3c1857c1555e71771021fa4b440\transformed\room-ktx-2.6.1\res
+coder.sentient.filecryptx.app-lifecycle-process-2.6.2-23 C:\Users\shiva\.gradle\caches\8.13\transforms\a768f2799118e7b56770a4a265e61252\transformed\lifecycle-process-2.6.2\res
+coder.sentient.filecryptx.app-appcompat-1.7.0-24 C:\Users\shiva\.gradle\caches\8.13\transforms\aba301a75e8060291ff6e48b88f9721e\transformed\appcompat-1.7.0\res
+coder.sentient.filecryptx.app-lifecycle-service-2.6.2-25 C:\Users\shiva\.gradle\caches\8.13\transforms\abb57bcdbddac49c7d30cb30b8b29974\transformed\lifecycle-service-2.6.2\res
+coder.sentient.filecryptx.app-fragment-1.6.1-26 C:\Users\shiva\.gradle\caches\8.13\transforms\b0ba78a3f3c7ecc939413ceb33ccf546\transformed\fragment-1.6.1\res
+coder.sentient.filecryptx.app-lifecycle-viewmodel-ktx-2.6.2-27 C:\Users\shiva\.gradle\caches\8.13\transforms\b44e3b1ff997ef4d8dd18397c327471f\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+coder.sentient.filecryptx.app-savedstate-ktx-1.2.1-28 C:\Users\shiva\.gradle\caches\8.13\transforms\b7c1927e4918698e133c7f9e0f28a6cb\transformed\savedstate-ktx-1.2.1\res
+coder.sentient.filecryptx.app-startup-runtime-1.1.1-29 C:\Users\shiva\.gradle\caches\8.13\transforms\ba06008a03396a62c5ec5b945e6e239f\transformed\startup-runtime-1.1.1\res
+coder.sentient.filecryptx.app-lifecycle-viewmodel-savedstate-2.6.2-30 C:\Users\shiva\.gradle\caches\8.13\transforms\c51c72876cc6bce51fa3cac00b3e1c75\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+coder.sentient.filecryptx.app-core-ktx-1.13.1-31 C:\Users\shiva\.gradle\caches\8.13\transforms\cc2065f73f9a5cfc53db2ef7c26fcf27\transformed\core-ktx-1.13.1\res
+coder.sentient.filecryptx.app-lifecycle-livedata-core-2.6.2-32 C:\Users\shiva\.gradle\caches\8.13\transforms\d2320570cfc14d017253b84eb1f2c472\transformed\lifecycle-livedata-core-2.6.2\res
+coder.sentient.filecryptx.app-core-1.13.1-33 C:\Users\shiva\.gradle\caches\8.13\transforms\d9567774afa1887ed381e5d614538675\transformed\core-1.13.1\res
+coder.sentient.filecryptx.app-annotation-experimental-1.4.0-34 C:\Users\shiva\.gradle\caches\8.13\transforms\db8b45c54e10e24075a5e6a7d4140c67\transformed\annotation-experimental-1.4.0\res
+coder.sentient.filecryptx.app-viewpager2-1.0.0-35 C:\Users\shiva\.gradle\caches\8.13\transforms\e0383cfcf9db1562d1769ab4f2ab6405\transformed\viewpager2-1.0.0\res
+coder.sentient.filecryptx.app-lifecycle-livedata-core-ktx-2.6.2-36 C:\Users\shiva\.gradle\caches\8.13\transforms\e2cec3afab6511826de04cde0dde3c99\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+coder.sentient.filecryptx.app-core-runtime-2.2.0-37 C:\Users\shiva\.gradle\caches\8.13\transforms\e514eafd7e3b1d8bc83c833ba3dfdb64\transformed\core-runtime-2.2.0\res
+coder.sentient.filecryptx.app-drawerlayout-1.1.1-38 C:\Users\shiva\.gradle\caches\8.13\transforms\e77aa43e9195c072a29e1445d1d6995d\transformed\drawerlayout-1.1.1\res
+coder.sentient.filecryptx.app-activity-1.9.1-39 C:\Users\shiva\.gradle\caches\8.13\transforms\f1c5205482993ae7b413255c61508e23\transformed\activity-1.9.1\res
+coder.sentient.filecryptx.app-pattern-lock-0.2.0-40 C:\Users\shiva\.gradle\caches\8.13\transforms\f2f1151e62fa17e44c96a2a88a20251e\transformed\pattern-lock-0.2.0\res
+coder.sentient.filecryptx.app-profileinstaller-1.3.1-41 C:\Users\shiva\.gradle\caches\8.13\transforms\f49753334987358c5d8c3c363f597e9d\transformed\profileinstaller-1.3.1\res
+coder.sentient.filecryptx.app-pngs-42 D:\Coding\new and refactored projects\FileCryptX\app\build\generated\res\pngs\debug
+coder.sentient.filecryptx.app-resValues-43 D:\Coding\new and refactored projects\FileCryptX\app\build\generated\res\resValues\debug
+coder.sentient.filecryptx.app-packageDebugResources-44 D:\Coding\new and refactored projects\FileCryptX\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+coder.sentient.filecryptx.app-packageDebugResources-45 D:\Coding\new and refactored projects\FileCryptX\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+coder.sentient.filecryptx.app-debug-46 D:\Coding\new and refactored projects\FileCryptX\app\build\intermediates\merged_res\debug\mergeDebugResources
+coder.sentient.filecryptx.app-debug-47 D:\Coding\new and refactored projects\FileCryptX\app\src\debug\res
+coder.sentient.filecryptx.app-main-48 D:\Coding\new and refactored projects\FileCryptX\app\src\main\res
